@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ZamaniK
+- 👋 Hi, I’m @ZamaniK Mthembu
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently persuing an Advanced Diploma in Information Communications Technology(ICT).
 - 💞️ I’m looking for collaborations on my projects with aspiring software developers like myself as someone who usually take on projects alone.
 - 📫 How to reach me ...
 - Contact Number (+27) 73 740 6704
