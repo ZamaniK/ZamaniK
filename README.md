@@ -1,5 +1,5 @@
 ## About Me
-I'm a passionate software developer with a focus on creating innovative and user-friendly applications. I have experience in various programming languages and technologies, including but not limited to, C# Java, Python, JavaScript, and HTML/CSS.
+I'm a passionate software developer with a focus on creating innovative and user-friendly applications. I have experience in various programming languages and technologies, including but not limited to C#, Java, Python, JavaScript, and HTML/CSS.
 
 In my journey as a developer, I have worked on projects ranging from web development to mobile applications. I enjoy tackling complex problems and finding efficient solutions through logical thinking and continuous learning.
 
