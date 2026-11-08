@@ -4,7 +4,7 @@
 
 📍 Durban, South Africa
 
-I build practical software solutions that connect business needs with technology—from enterprise applications and system integrations to dashboards and data-driven solutions. I enjoy turning complex processes into reliable, intuitive tools that help people work smarter and make better decisions.
+I build practical software solutions that connect business needs with technology, from enterprise applications and system integrations to dashboards and data-driven solutions. I enjoy turning complex processes into reliable, intuitive tools that help people work smarter and make better decisions.
 
 ---
 
